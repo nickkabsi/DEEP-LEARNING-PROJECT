@@ -1,0 +1,9 @@
+classification report for dataset 2: 
+               precision    recall  f1-score   support
+
+           0       0.47      1.00      0.64       102
+           1       0.00      0.00      0.00       117
+
+    accuracy                           0.47       219
+   macro avg       0.23      0.50      0.32       219
+weighted avg       0.22      0.47      0.30       219
